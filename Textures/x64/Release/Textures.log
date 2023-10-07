@@ -1,0 +1,11 @@
+﻿  glad.c
+  main.cpp
+C:\Users\Owner\Desktop\C++ Stuff\Textures\main.cpp(247,20): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Owner\Desktop\C++ Stuff\Textures\main.cpp(256,20): warning C4305: '-=': truncation from 'double' to 'float'
+  stb_image.cpp
+  Previous IPDB not found, fall back to full compilation.
+LINK : warning LNK4098: defaultlib 'MSVCRTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  All 426 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Textures.vcxproj -> C:\Users\Owner\Desktop\C++ Stuff\Textures\x64\Release\Textures.exe

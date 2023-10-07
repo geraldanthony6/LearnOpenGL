@@ -1,0 +1,2 @@
+C:\Users\Owner\Desktop\C++ Stuff\HelloWindow\x64\Debug\HelloWindow.exe
+C:\Users\Owner\Desktop\C++ Stuff\LearnOpenGL\HelloWindow\x64\Debug\HelloWindow.exe

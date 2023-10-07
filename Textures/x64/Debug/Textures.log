@@ -1,0 +1,7 @@
+﻿  glad.c
+  main.cpp
+C:\Users\Owner\Desktop\C++ Stuff\LearnOpenGL\Textures\main.cpp(333,20): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Owner\Desktop\C++ Stuff\LearnOpenGL\Textures\main.cpp(342,20): warning C4305: '-=': truncation from 'double' to 'float'
+  stb_image.cpp
+  Generating Code...
+  Textures.vcxproj -> C:\Users\Owner\Desktop\C++ Stuff\LearnOpenGL\Textures\x64\Debug\Textures.exe
